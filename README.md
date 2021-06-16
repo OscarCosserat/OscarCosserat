@@ -1,0 +1,1 @@
+I am a CNRS PhD at La Rochelle and I study how tools from differential geometry can be used to solve problems from theoretical mechanics through numerical analysis. My advisors are Camille Laurent-Gengoux and Vladimir Salnikov.
